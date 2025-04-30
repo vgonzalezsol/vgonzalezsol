@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vgonzalezsol
 - 👀 I’m interested in learning more about datascience. 
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analysis and data science projects
 - 📫 How to reach me veronicagonzalezsol@gmail.com
 
